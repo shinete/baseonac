@@ -1,0 +1,38 @@
+# 内容：补充网站
+# 数量：12 条
+
+# 米家 / 小米智能家居
+DOMAIN-SUFFIX,mi.com
+DOMAIN,dlg.io.mi.com
+
+# HomeAssistant 智能家居中枢
+DOMAIN-SUFFIX,homeassistant
+DOMAIN-SUFFIX,ha
+DOMAIN-SUFFIX,home-assistant.io
+
+# 向日葵 / 内网穿透
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,sunlogin.net
+
+# 苹果推送
+DOMAIN-SUFFIX,push.apple.com
+
+# 系统联网检测
+DOMAIN,msftconnecttest.com
+DOMAIN,msftncsi.com
+
+# 游戏语音/联机 STUN
+
+#其它
+DOMAIN-SUFFIX,stun
+DOMAIN-SUFFIX,ghostery.com
+DOMAIN-SUFFIX,tuberipper.com
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,javnew.net
+DOMAIN-SUFFIX,aiosearch.com
+DOMAIN-SUFFIX,javhd.com
+DOMAIN-SUFFIX,javfree.me
+DOMAIN-SUFFIX,n53i.com
+DOMAIN-SUFFIX,video.eyny.com
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,sukebei.nyaa.si
