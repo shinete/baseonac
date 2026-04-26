@@ -1,10 +1,10 @@
-# 本地/局域网地址
-# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
+#LocalNetwork
+#Reference: https://en.wikipedia.org/wiki/Reserved_IP_addresses
 
-# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
+#ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 DOMAIN-SUFFIX,acl4.ssr
 
-# 本地/局域网地址
+#LAN
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,internal
@@ -26,7 +26,7 @@ IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
-# Router managed 路由器管理域名
+#Router
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
 DOMAIN,router.asus.com
