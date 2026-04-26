@@ -1,4 +1,4 @@
-# 内容：补充网站
+# 内容：补充优化
 
 # 米家 / 小米智能家居
 DOMAIN-SUFFIX,mi.com
@@ -21,9 +21,9 @@ DOMAIN,msftconnecttest.com
 DOMAIN,msftncsi.com
 
 # 游戏语音/联机 STUN
+DOMAIN-SUFFIX,stun
 
 #其它
-DOMAIN-SUFFIX,stun
 DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,tuberipper.com
 DOMAIN-SUFFIX,avgle.com
@@ -35,3 +35,26 @@ DOMAIN-SUFFIX,n53i.com
 DOMAIN-SUFFIX,video.eyny.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,sukebei.nyaa.si
+
+#磁力下载
+- PROCESS-NAME,Thunder,磁力下载
+- PROCESS-NAME,DownloadService,磁力下载
+- PROCESS-NAME,qBittorrent,磁力下载
+- PROCESS-NAME,Transmission,磁力下载
+- PROCESS-NAME,fdm,磁力下载
+- PROCESS-NAME,aria2c,磁力下载
+- PROCESS-NAME,Folx,磁力下载
+- PROCESS-NAME,NetTransport,磁力下载
+- PROCESS-NAME,uTorrent,磁力下载
+- PROCESS-NAME,WebTorrent,磁力下载
+- PROCESS-NAME,aria2c.exe,磁力下载
+- PROCESS-NAME,BitComet.exe,磁力下载
+- PROCESS-NAME,fdm.exe,磁力下载
+- PROCESS-NAME,NetTransport.exe,磁力下载
+- PROCESS-NAME,qbittorrent.exe,磁力下载
+- PROCESS-NAME,Thunder.exe,磁力下载
+- PROCESS-NAME,ThunderVIP.exe,磁力下载
+- PROCESS-NAME,transmission-daemon.exe,磁力下载
+- PROCESS-NAME,transmission-qt.exe,磁力下载
+- PROCESS-NAME,uTorrent.exe,磁力下载
+- PROCESS-NAME,WebTorrent.exe,磁力下载
