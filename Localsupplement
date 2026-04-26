@@ -1,0 +1,27 @@
+# 内网域名
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,lan
+DOMAIN-SUFFIX,home.arpa
+
+# 米家 / 小米智能家居
+DOMAIN-SUFFIX,mi.com
+DOMAIN,dlg.io.mi.com
+
+# HomeAssistant 智能家居中枢
+DOMAIN-SUFFIX,homeassistant
+DOMAIN-SUFFIX,ha
+DOMAIN-SUFFIX,home-assistant.io
+
+# 向日葵 / 内网穿透
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,sunlogin.net
+
+# 苹果推送
+DOMAIN-SUFFIX,push.apple.com
+
+# 系统联网检测
+DOMAIN,msftconnecttest.com
+DOMAIN,msftncsi.com
+
+# 游戏语音/联机 STUN
+DOMAIN-SUFFIX,stun
