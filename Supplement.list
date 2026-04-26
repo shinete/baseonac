@@ -1,29 +1,29 @@
-# 内容：补充优化
+#Suppliment
 
-# 米家 / 小米智能家居
+#MI Home
 DOMAIN-SUFFIX,mi.com
 DOMAIN,dlg.io.mi.com
 
-# HomeAssistant 智能家居中枢
+#HomeAssistant
 DOMAIN-SUFFIX,homeassistant
 DOMAIN-SUFFIX,ha
 DOMAIN-SUFFIX,home-assistant.io
 
-# 向日葵 / 内网穿透
+# Oray
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,sunlogin.net
 
-# 苹果推送
+#Apple Push
 DOMAIN-SUFFIX,push.apple.com
 
-# 系统联网检测
+#Net Connection
 DOMAIN,msftconnecttest.com
 DOMAIN,msftncsi.com
 
-# 游戏语音/联机 STUN
+#STUN
 DOMAIN-SUFFIX,stun
 
-#其它
+#Others
 DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,tuberipper.com
 DOMAIN-SUFFIX,avgle.com
