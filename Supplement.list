@@ -1,28 +1,5 @@
 #Suppliment
 
-#MI Home
-DOMAIN-SUFFIX,mi.com
-DOMAIN,dlg.io.mi.com
-
-#HomeAssistant
-DOMAIN-SUFFIX,homeassistant
-DOMAIN-SUFFIX,ha
-DOMAIN-SUFFIX,home-assistant.io
-
-#Oray
-DOMAIN-SUFFIX,oray.com
-DOMAIN-SUFFIX,sunlogin.net
-
-#Apple Push
-DOMAIN-SUFFIX,push.apple.com
-
-#Net Connection
-DOMAIN,msftconnecttest.com
-DOMAIN,msftncsi.com
-
-#STUN
-DOMAIN-SUFFIX,stun
-
 #Others
 DOMAIN-SUFFIX,ghostery.com
 DOMAIN-SUFFIX,tuberipper.com
