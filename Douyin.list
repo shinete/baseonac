@@ -1,8 +1,8 @@
 # NAME: DouYin
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2026-05-03 01:48:29
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# DOMAIN-SUFFIX: 18
+# TOTAL: 18
 DOMAIN-SUFFIX,abtest3-misc-hj.zijieapi.com
 DOMAIN-SUFFIX,polaris5-normal-hl.zijieapi.com
 DOMAIN-SUFFIX,v3-dy-o.zjcdn.com
@@ -11,8 +11,13 @@ DOMAIN-SUFFIX,tnc0-aliec2.zijieapi.com
 DOMAIN-SUFFIX,api3-normal-m-yz.amemv.com
 DOMAIN-SUFFIX,bytelink100-ws-hl.amemv.com
 DOMAIN-SUFFIX,frontier100-aweme.amemv.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
